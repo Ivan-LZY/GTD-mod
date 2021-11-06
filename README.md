@@ -62,7 +62,7 @@ GTD.asi				//GTAV main directory
 	└───plot_funcs.py			//functions to plot annotations onto the captured images
 	└───main.py				//run this to visualise/save captured images with overlay
 ```
-## In-game User Guide
+## In-game UI Guide
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/87157423/140610510-a8609c50-298c-4a5e-9e69-e1f0226083d5.JPG">
