@@ -37,7 +37,7 @@ The following improvements were added to the mod:
 - Devised a method to robustly gather vehicle information in each scene and log this data for annotation
 - Randomized weather conditions, time of day and camera rotations when taking capturing data, so as to get a variety of lighting conditions and view angles
 
-To view more in-depth annotation results, go to [Annotation showcase](#Annotation-showcase)
+To view more annotation visualizations, go to [Results showcase](#Results-showcase)
 
 # Quick start
 ***The following set of instructions is adapted from JTA-mod's repository***
@@ -85,7 +85,7 @@ To plot and visualize the logged data, setup directories correctly and use [main
 
 This mod is developed in C++. To modify or implement new functions in-game, I strongly encourage you to visit the database provided by ScriptHookV developer: http://www.dev-c.com/nativedb/
 
-# Annotation showcase
+# Results showcase
 
 With this mod, it is possible to generate synthetic datasets for a variety of use-case:
 
